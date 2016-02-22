@@ -1,0 +1,17 @@
+/*css*/
+body{
+	background:pink;
+	font-family:arial;
+}
+h1{
+	color: blue;
+	color: purple;
+}
+p{
+	color: orange;
+}
+
+hr{
+	border-color:#8C5EFF
+}
+
