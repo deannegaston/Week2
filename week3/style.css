@@ -23,9 +23,33 @@ p{
 	font-weight: bold;
 	line-height: 26.4px;
 	text-decoration:underline;
+
 }
+/* Deanne Gaston Style Website*/
+p::first-letter {
+    color: #purple;
+    font-size:#50;
+}
+
+p::first-line {
+    color: #orange;
+    font-variant: small;
+}
+
+#content{width: 600px;
+border-width: 8px;
+border-style:solid;
+border-color:magenta;
+background-color: #purple;
+margin: 50px auto 0 auto;
+padding: 15px;
+padding-color:blue;
+
+
+;}
 
 hr{
 	border-color:#8C5EFF
+
 }
 
