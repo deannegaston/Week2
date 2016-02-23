@@ -6,9 +6,23 @@ body{
 h1{
 	color: blue;
 	color: purple;
+	font-family: font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 42px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+
 }
 p{
 	color: orange;
+	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+	text-decoration:underline;
 }
 
 hr{
