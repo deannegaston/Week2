@@ -1,0 +1,86 @@
+/*css*/
+
+body{
+	background: pink;
+	font-family:arial;
+
+
+.box{
+  width: 200px;
+  height: 200px;
+  border:1px solid blue;
+  margin-bottom: 30px;
+  margin-right: 30px;
+  float:left;
+}
+
+#pink{
+  background: pink;}
+
+#yellow{
+  background: yellow;}
+
+#purple{
+  background:purple;}
+
+}
+h1{
+	color: blue;
+	color: purple;
+	font-family: font-family: 'Arial Black', 'Arial Bold', Gadget, sans-serif;
+	font-size: 42px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+
+}
+p{
+	color: green;
+	font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, serif;
+	font-size: 30px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 26.4px;
+	text-decoration:underline;
+
+}
+/* Deanne Gaston Style Website*/
+p::first-letter {
+    color: #purple;
+    font-size:#50;
+}
+
+p::first-line {
+    color: #orange;
+    font-variant: small;
+}
+
+#content{width: 600px;
+border-width: 8px;
+border-style:solid;
+border-color:magenta;
+background-color: #purple;
+margin: 50px auto 0 auto;
+padding: 15px;
+padding-color:blue;
+
+
+;}
+
+hr{
+	border-color:#8C5EFF
+
+
+
+
+
+
+
+
+
+
+
+}
+
